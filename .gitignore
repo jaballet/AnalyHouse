@@ -2,4 +2,13 @@
 # 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
 ################################################################################
 
-*.pyc
+# 경로 무시
+.vs
+
+/AnalyHouse/AnalyHous/etc
+/AnalyHouse/AnalyHous/Include
+/AnalyHouse/AnalyHous/Lib
+/AnalyHouse/AnalyHous/share
+
+/AnalyHouse\AnalyHous\Scripts/.ipynb_checkpoints
+/AnalyHouse\AnalyHous\Scripts/__pycache__
