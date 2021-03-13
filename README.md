@@ -24,3 +24,7 @@ pip install jupyter
 
 pip install matplotlib
 -> 데이터 분석 시 차트를 활용하기 위함
+
+pip install pip
+ -> pip업데이트
+
